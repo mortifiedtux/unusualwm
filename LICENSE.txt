@@ -1,0 +1,14 @@
+Anyone is free to use, copy, modify and distribute copies of the Asset
+Pack, with or without fee, and by any means.
+
+THE ASSET PACK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE ASSET PACK OR THE USE OR OTHER DEALINGS IN THE ASSET PACK.
+
+Copyright (c) 1992, 1995, 1998, 2000 Microsoft.
+
+These MIDI files are provided for archival and educational purposes. I am not
+the original author, and I claim no ownership or rights to them.
